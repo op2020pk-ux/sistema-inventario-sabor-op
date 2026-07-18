@@ -14,35 +14,35 @@ A continuación se detalla cada módulo administrativo, incluyendo el espacio pa
 
 ### 1. Nueva Venta
 Este módulo permite el registro rápido de transacciones.
-![Imagen de Nueva Venta](Img_Presentacion\Nueva venta.png)
+![Imagen de Nueva Venta](Img_Presentacion/Nueva_venta.png)
 
 ### 2. Ventas
 Panel centralizado para el historial, seguimiento y gestión de todas las operaciones de venta ejecutadas.
-![Imagen de Historial de Ventas](Img_Presentacion\Ventas.png)
+![Imagen de Historial de Ventas](Img_Presentacion/Ventas.png)
 
 ### 3. Stock
 Herramienta crítica para el control y monitoreo constante de los niveles de existencias en el inventario.
-![Imagen de Stock](Img_Presentacion\Stock.png)
+![Imagen de Stock](Img_Presentacion/Stock.png)
 
 ### 4. Clientes
 Gestión completa de la base de datos de clientes para mantener un seguimiento de tus compradores.
-![Imagen de Clientes](Img_Presentacion\Cliente.png)
+![Imagen de Clientes](Img_Presentacion/Cliente.png)
 
 ### 5. Productos
 Catálogo dinámico que permite la carga, edición y actualización de la información técnica de los productos.
-![Imagen de Productos](Img_Presentacion\Productos.png)
+![Imagen de Productos](Img_Presentacion/Productos.png)
 
 ### 6. Configuración
 Panel de ajustes generales para personalizar el comportamiento y parámetros del sistema.
-![Imagen de Configuración](Img_Presentacion\Configuracion.png)
+![Imagen de Configuración](Img_Presentacion/Configuracion.png)
 
 ### 7. Usuarios
 Administración de perfiles y niveles de acceso para los diferentes usuarios que operan el sistema.
-![Imagen de Usuarios](Img_Presentacion\Usuario.png)
+![Imagen de Usuarios](Img_Presentacion/Usuario.png)
 
 ### 8. Desarrollador
 Sección técnica que contiene información detallada sobre el desarrollo y el autor del software.
-![Imagen de Desarrollador](Img_Presentacion\Desarrollador.png)
+![Imagen de Desarrollador](Img_Presentacion/Desarrollador.png)
 
 ## Usuario y clave principal del sistema
 
@@ -68,7 +68,7 @@ El desarrollo de este sistema se fundamenta en un ecosistema robusto de tecnolog
     * **Generación de Reportes:** Integración de **FPDF** para la creación de documentos dinámicos.
 
     * **Gestión de Correo:** Implementación de **PHPMailer** para el envío automatizado de notificaciones.
-
+    
 * **Gestión de Recursos:** Estructura organizada de activos multimedia y archivos estáticos integrados al flujo de trabajo del proyecto.
 
 ---
